@@ -1,0 +1,14 @@
+SHA1 checksums:
+b8175e7e4a3dca2dc74516dcbf20458e2f33a035  emctools/hmnhd_images/preimage.sh
+733210cac114df677b32ad99545f2a584d80ec7d  initrd.uim
+6154cbd9276f6299bf89c5d01c1376f2119433ef  rootimg.tgz
+f4436e0c6cd7eacb4d976c8e36f6f23017b3c7f5  sync
+d765065e182b7c51673519d9639ca9ad1ab82ad8  vmlinuz.uim
+
+MD5 checksums:
+25274c50b4189b945a40e4a02eed96ed  emctools/hmnhd_images/preimage.sh
+d26a56f852c8f826247599144e50c1c2  initrd.uim
+b0655debda4eb3e1b4b9544f24788fa3  README
+7e3af3ac71514858cc59974edc80c80b  rootimg.tgz
+b29b425b55dd3bb7a1b05bef80b5ce4f  sync
+cb4738332a353b2e6d90b1b7a22213c3  vmlinuz.uim
